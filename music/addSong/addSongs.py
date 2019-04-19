@@ -18,7 +18,7 @@ for filename in os.listdir(myDir):
            bashName = newbashnum + '.bat'
            newbash = open(bashName,'w')
            musFile = os.path.join(musicDir, filename)
-           newbash.write('mplayer '+ musFile +'\nexit 0')
+           newbash.write('#!/usr/bin/env bash\nmplayer '+ musFile +'\nexit 0')
            command = 'chmod u+x '+ os.path.join(myDir, bashName)
            process = subprocess.Popen(command.split(), stdout=subprocess.PIPE)
            output, error = process.communicate()
