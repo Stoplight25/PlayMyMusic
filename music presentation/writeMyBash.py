@@ -12,3 +12,4 @@ command = 'chmod u+x '+ os.path.join(myDir, 'playMusic.bat')
 process = subprocess.Popen(command.split(), stdout=subprocess.PIPE)
 output, error = process.communicate()
 startBash.close()
+ 
