@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 #create the bash file that runs the program
 import shutil, os, subprocess, inspect
 myDir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
