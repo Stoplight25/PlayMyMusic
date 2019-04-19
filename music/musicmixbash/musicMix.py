@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 import random, os, subprocess, sys, inspect
 platform = sys.platform
 myDir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe()))) #path normalization, get local paths as variables
