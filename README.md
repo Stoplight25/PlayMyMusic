@@ -5,7 +5,8 @@ after adding music files to the program, DO NOT RENAME THEM.
 to add new songs put the songs in the addNewSongs folder and click the .bat file in that folder
 FILENAMES MUST NOT CONTAIN SPACES OR SPECIAL CHARACTERS.
 
-first, click writeMyBash.bat (emphisis on the .bat ending NOT the python file)
+first, first, set writeMyBash.bat and addSongs.bat as exectable (either via commands or just by right clicking on them, selecting properties, and check the box for making it executable)
+then click writeMyBash.bat (emphisis on the .bat ending NOT the python file)
 this will make a playMusic.bat file. put that on your desktop.
 put your mp3/mp4 files in the addSongs folder, remember, NO SPACES/SPECIAL CHARACTERS
 click addSongs.bat 
