@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 #the infastructure to play new songs
 import shutil, os, subprocess, inspect
 myDir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe()))) #pth normalization, get local paths as variables
