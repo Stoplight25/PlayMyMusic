@@ -1,6 +1,6 @@
 # PlayMyMusic
 
-EDIT: this is horridly outdated and the code is laughably overcomplicated. dont download unless you want to laugh at younger me's incompetence
+EDIT: this is horridly outdated and the code is laughably overcomplicated. dont download unless you want to laugh at younger me's incompetence. i would update it but in all honesty its obsolete. just get adbloker and then make a youtube playlist to reap most of the same benifits. this is really only usefull of your internet goes out.
 
 creates a file on your desktop that when clicked plays a random song from a folder. requires python 3.4 and mplayer.
 
