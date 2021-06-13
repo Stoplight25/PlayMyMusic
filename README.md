@@ -1,4 +1,7 @@
 # PlayMyMusic
+
+EDIT: this is horridly outdated and the code is laughably overcomplicated. dont download unless you want to laugh at younger me's incompetence
+
 creates a file on your desktop that when clicked plays a random song from a folder. requires python 3.4 and mplayer.
 
 after adding music files to the program, DO NOT RENAME THEM.
