@@ -17,7 +17,7 @@ now just click on the playMusic file to play a random song!
 
 if you must move this folder to another part of your computer delete the numbered bash files in musicmixbash and move all song files to add songs. also delete your play music.bat file. move the folder, run writemybash.bat and then add songs.bat.
 
-created by Stoplight25/vaughn a roper: https://github.com/Stoplight25
+created by vaughn a roper: https://github.com/Stoplight25
 
 help with making bash files executable in program from https://stackoverflow.com/users/2801791/tvgriek
 
